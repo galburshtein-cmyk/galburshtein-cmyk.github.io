@@ -1,10 +1,11 @@
 :HL["/_next/static/media/5eaa6df7f69c6102-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/6ead47deb8affd65-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/afc28821a27bd894.css","style"]
-:HL["/_next/static/css/e873b39521fcd004.css","style"]
+:HL["/_next/static/css/b25aacdab16975e4.css","style"]
+:HL["/_next/static/css/19f86fa447b15f6e.css","style"]
 :HL["/_next/static/css/e86fc6cb223b4079.css","style"]
 :HL["/_next/static/css/7dd92e62adf2a4a2.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap","style"]
 :HL["/_next/static/css/f88c528009f132c9.css","style"]
 :HL["https://picsum.photos/seed/amit/240/240","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"therapists","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"amit-rosenberg","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wY2YzJbdhXIxHWU3brBcJ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"therapists","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"amit-rosenberg","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ub6p73r9j7IrgPC-DFYXn"}
