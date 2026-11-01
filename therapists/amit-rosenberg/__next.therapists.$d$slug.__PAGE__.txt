@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[5371,["371","static/chunks/371-e846ba4e912185d4.js","856","static/chunks/app/therapists/%5Bslug%5D/page-b78fd23cfea0be89.js"],""]
+3:I[7023,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["https://picsum.photos/seed/amit/240/240","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container","children":[["$","p",null,{"children":["$","$L2",null,{"href":"/therapists","children":"← חזרה לאינדקס"}]}],["$","img",null,{"src":"https://picsum.photos/seed/amit/240/240","alt":"ד״ר עמית רוזנברג","style":{"width":220,"borderRadius":8}}],["$","h1",null,{"children":"ד״ר עמית רוזנברג"}],["$","p",null,{"children":[["$","span",null,{"className":"tag","children":"לוגותרפיסט מוסמך"}]," ",["$","span",null,{"className":"muted","children":"הרצליה"}]]}],["$","p",null,{"children":"משלב פסיכולוגיה קלינית עם עקרונות הלוגותרפיה בטיפול באנשים שחוו טראומה ומשבר, מתוך אמונה בכוחו של האדם למצוא משמעות גם ברגעים הקשים."}],["$","div",null,{"className":"section","children":[["$","h2",null,{"children":"יצירת קשר"}],["$","ul",null,{"children":[["$","li",null,{"children":["אימייל: ","amit@example.com"]}],["$","li",null,{"children":["טלפון: ","054-0000000"]}],"$undefined"]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZTOVyWwvIK38ig8Mmd2P8"}
+5:null

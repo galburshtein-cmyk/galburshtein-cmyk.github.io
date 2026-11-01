@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[3856,["371","static/chunks/371-e846ba4e912185d4.js","455","static/chunks/455-0ad94696180a8a77.js","296","static/chunks/296-82f830c6a4c9097a.js","177","static/chunks/app/layout-4f70297a22fbe166.js"],"SiteShell"]
+3:I[8774,[],""]
+4:I[6396,[],""]
+5:I[3734,["371","static/chunks/371-e846ba4e912185d4.js","455","static/chunks/455-0ad94696180a8a77.js","296","static/chunks/296-82f830c6a4c9097a.js","345","static/chunks/app/not-found-b44d1dcc36a15445.js"],"default"]
+:HL["/_next/static/css/afc28821a27bd894.css","style"]
+:HL["/_next/static/css/de391f90628e34cf.css","style"]
+:HL["/_next/static/css/e86fc6cb223b4079.css","style"]
+:HL["/_next/static/css/7dd92e62adf2a4a2.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap","style"]
+:HL["/_next/static/css/f88c528009f132c9.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/afc28821a27bd894.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/de391f90628e34cf.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e86fc6cb223b4079.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/7dd92e62adf2a4a2.css","precedence":"next"}]],["$","html",null,{"lang":"he","dir":"rtl","className":"__variable_9b5620","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"}],["$","script",null,{"async":true,"data-app-id":"6a2804cad37faa3ebe807be9","data-platform-url":"https://app.base44.com","src":"https://compass-meaning-path.base44.app/static/js/badge.js"}]]}],["$","body",null,{"children":["$","div",null,{"id":"root","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f88c528009f132c9.css","precedence":"next"}]]]}]}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZTOVyWwvIK38ig8Mmd2P8"}
